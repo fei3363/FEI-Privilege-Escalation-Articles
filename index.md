@@ -1,34 +1,3 @@
-# FEI Privilege Escalation Articles
+# FEI Privilege Escalation Images
 
-30 天 Linux／Windows 權限提升實驗文章與視覺化圖解。
-
-- [Day 01：提權到底在提什麼？從 Low Privilege 到 Root / SYSTEM](articles/day01-what-is-privilege-escalation.html)
-- [Day 02：root、Administrator、SYSTEM 到底差在哪？](articles/day02-root-admin-system.html)
-- [Day 03：我為什麼自己打造 20 個提權環境？Environment is the Source of Truth](articles/day03-environment-is-source-of-truth.html)
-- [Day 04：拿到 Linux Shell 後，第一件事不是找 Exploit](articles/day04-linux-enumeration.html)
-- [Day 05：sudo 不是漏洞：真正危險的是「你被允許執行什麼」](articles/day05-sudo-misconfiguration.html)
-- [Day 06：SUID — 普通使用者為什麼可以用別人的身分執行程式？](articles/day06-suid.html)
-- [Day 07：PATH Hijacking — Linux 最後到底執行了哪一個程式？](articles/day07-path-hijacking.html)
-- [Day 08：Cron — 當 root 定期執行了你可以修改的東西](articles/day08-cron.html)
-- [Day 09：Linux Capabilities — 不用成為 root，也可能擁有 root 的能力](articles/day09-capabilities.html)
-- [Day 10：Writable 不等於 Vulnerable — 弱檔案權限真正危險在哪？](articles/day10-weak-file-permissions.html)
-- [Day 11：不用 Exploit 也能提權：Linux Credential Hunting](articles/day11-credential-hunting.html)
-- [Day 12：你真的只是普通使用者嗎？Dangerous Group 背後的權限](articles/day12-dangerous-group.html)
-- [Day 13：systemd：高權限 Service 信任了誰的設定？](articles/day13-systemd-service.html)
-- [Day 14：打完 10 個 Linux Lab，我發現提權其實一直在找同一件事](articles/day14-linux-methodology.html)
-- [Day 15：拿到 Windows Shell 後，不要急著跑工具：先看懂自己的 Token](articles/day15-windows-enumeration.html)
-- [Day 16：Windows Service ACL — 能控制 Service，就可能控制 SYSTEM 嗎？](articles/day16-service-acl.html)
-- [Day 17：Service 本身不能改，但它執行的 EXE 可以改呢？](articles/day17-service-binary.html)
-- [Day 18：Unquoted Service Path — Windows 到底會先執行哪個 EXE？](articles/day18-unquoted-path.html)
-- [Day 19：Scheduled Task — 當 SYSTEM 定期執行你能控制的檔案](articles/day19-scheduled-task.html)
-- [Day 20：AlwaysInstallElevated — 兩個 Registry Policy 如何改變安裝權限](articles/day20-always-install-elevated.html)
-- [Day 21：Registry ACL：能改 Registry，為什麼可能等於控制 SYSTEM？](articles/day21-registry-acl.html)
-- [Day 22：Windows Credential Hunting：不用漏洞，也能從 User 走到 Local Admin](articles/day22-windows-credentials.html)
-- [Day 23：whoami /priv 不只是清單：SeBackupPrivilege 到底給了什麼能力？](articles/day23-token-privileges.html)
-- [Day 24：DLL Hijacking：SYSTEM Process 載入了誰控制的程式碼？](articles/day24-dll-hijacking.html)
-- [Day 25：Windows Service 提權不是一種漏洞：一次拆懂五種不同 Trust Boundary](articles/day25-windows-service-trust-boundary.html)
-- [Day 26：Linux PATH vs Windows Unquoted Path — 兩個 OS 都在回答「到底執行誰？」](articles/day26-executable-resolution.html)
-- [Day 27：Cron vs Scheduled Task — 排程真正危險的是「誰執行了什麼」](articles/day27-scheduled-execution.html)
-- [Day 28：帳號名稱不代表真正權限 — 從 Capabilities、Group 到 Windows Token](articles/day28-effective-privilege.html)
-- [Day 29：如果今天只給你 Low Privilege Shell，你下一步會查什麼？](articles/day29-blind-privesc-analysis.html)
-- [Day 30：30 天後重新理解 Privilege Escalation — 技巧只是表面，信任才是核心](articles/day30-trust-is-the-core.html)
+108 generated cybersecurity infographics are hosted in this project.
