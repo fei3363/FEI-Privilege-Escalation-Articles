@@ -1,3 +1,12 @@
-# FEI Privilege Escalation Images
+# FEI Images
 
-108 generated cybersecurity infographics are hosted in this project.
+Public image assets for FEI articles, courses, and technical content.
+
+## Course covers
+
+- [Privilege Escalation cover](./images/course-cover-systematic-privilege-escalation.png)
+- [Kubernetes attacker-perspective cover](./images/course-cover-attacker-view-kubernetes.png)
+
+## Diagram collections
+
+- [Privilege Escalation diagrams](./articles/images/generated-diagrams/)
